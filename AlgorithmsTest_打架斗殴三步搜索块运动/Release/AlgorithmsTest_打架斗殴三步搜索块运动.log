@@ -1,0 +1,19 @@
+﻿生成启动时间为 2014/8/5 10:47:25。
+     1>项目“D:\VS2012\Projects\AlgorithmsTest_打架斗殴三步搜索块运动\AlgorithmsTest_打架斗殴三步搜索块运动\AlgorithmsTest_打架斗殴三步搜索块运动.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\opencv246\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : 参见“fopen”的声明
+     1>main.cpp(431): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(487): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VS2012\Projects\AlgorithmsTest_打架斗殴三步搜索块运动\Release\AlgorithmsTest_打架斗殴三步搜索块运动.exe" /INCREMENTAL:NO /NOLOGO opencv_calib3d246.lib opencv_contrib246.lib opencv_core246.lib opencv_features2d246.lib opencv_flann246.lib opencv_gpu246.lib opencv_haartraining_engine.lib opencv_highgui246.lib opencv_imgproc246.lib opencv_legacy246.lib opencv_ml246.lib opencv_nonfree246.lib opencv_objdetect246.lib opencv_ocl246.lib opencv_photo246.lib opencv_stitching246.lib opencv_superres246.lib opencv_ts246.lib opencv_video246.lib opencv_videostab246.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\VS2012\Projects\AlgorithmsTest_打架斗殴三步搜索块运动\Release\AlgorithmsTest_打架斗殴三步搜索块运动.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VS2012\Projects\AlgorithmsTest_打架斗殴三步搜索块运动\Release\AlgorithmsTest_打架斗殴三步搜索块运动.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         正在生成代码
+         已完成代码的生成
+         AlgorithmsTest_打架斗殴三步搜索块运动.vcxproj -> D:\VS2012\Projects\AlgorithmsTest_打架斗殴三步搜索块运动\Release\AlgorithmsTest_打架斗殴三步搜索块运动.exe
+     1>已完成生成项目“D:\VS2012\Projects\AlgorithmsTest_打架斗殴三步搜索块运动\AlgorithmsTest_打架斗殴三步搜索块运动\AlgorithmsTest_打架斗殴三步搜索块运动.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.34
